@@ -1,4 +1,4 @@
-# mern-node-with-redux
+# mern-note-with-redux
 It is a Full Stack Note App. Used Node.js and Express.js for backend, react.js for frontend and stores user details in encrypted format in Mongo DB Database.
 
 # Tech Stack
@@ -14,7 +14,7 @@ It is a Full Stack Note App. Used Node.js and Express.js for backend, react.js f
 # Run Locally
 Clone the project
 ```bash
-  git clone https://github.com/MohammadAliAlizada/mern-node-with-redux.git
+  git clone https://github.com/MohammadAliAlizada/mern-note-with-redux.git
 ```
 Go to the project directory
 ```bash
