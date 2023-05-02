@@ -8,8 +8,8 @@ It is a Full Stack Note App. Used Node.js and Express.js for backend, react.js f
 
 **Database:** Mongo DB
 
-#Demo
-[[Documentation](https://note-with-redux.vercel.app/)](https://note-with-redux.vercel.app/)
+# Demo
+[https://note-with-redux.vercel.app/](https://note-with-redux.vercel.app/)
 
 # Run Locally
 Clone the project
