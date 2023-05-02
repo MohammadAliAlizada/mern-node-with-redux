@@ -8,5 +8,10 @@ It is a Full Stack Note App. Used Node.js and Express.js for backend, react.js f
 
 **Database:** Mongo DB
 
-# Demo
+# Run Locally
+Clone the project
+```bash
+  npm run start
+```
+
 
